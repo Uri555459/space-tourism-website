@@ -1,0 +1,6 @@
+export { Navbar } from './Navbar/Navbar'
+export { PageBg } from './PageBg/PageBg'
+export { Logo } from './Logo/Logo'
+export { Tabs } from './Tabs/Tabs'
+export { Tab } from './Tab/Tab'
+export { Image } from './Image/Image'
